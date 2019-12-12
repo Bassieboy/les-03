@@ -1,0 +1,78 @@
+*{
+    margin:0;
+}
+
+body {
+    background: #EFEFEF;
+    font-family: sans-serif;
+    padding:10px;
+  }
+
+  .achtergrond {
+    background: #025A37;
+  }
+
+  .achtergrond2 {
+    background: white;
+  }
+
+  .achtergrond3 {
+    background: #C60909;
+  }
+
+.content {
+    min-height:100px;
+    margin-bottom:20px;  
+}
+
+h1 {
+    margin-bottom:10px;
+    margin-top:10px;
+    border-bottom: 2px solid black;
+    border-spacing: 10px;
+}
+
+p{
+    color: white;
+    font-family:sans-serif;
+    padding:10px;
+  }
+
+  .tekst{
+    color: white;
+    font-family:sans-serif;
+    padding:10px;
+  }
+
+  .tekst2{
+    padding:10px;
+  }
+
+  
+
+
+  img {
+    border: 1px solid #ddd;
+  border-radius: 4px;
+  padding: 5px;
+  background: white;
+  }
+
+  .module {
+    background: white;
+    border: 1px solid #ccc;
+    margin: 0%;
+    > h2 {
+      padding: 1rem;
+      margin: 0 0 0.5rem 0;
+    }
+    > p {
+      padding: 0 1rem;
+    }
+  
+  
+
+ 
+
+
+    
